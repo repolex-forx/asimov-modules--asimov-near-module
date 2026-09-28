@@ -1,0 +1,11 @@
+{
+  "org": "asimov-modules",
+  "repo": "asimov-near-module",
+  "versions": [
+    {
+      "commit": "aa6faf12ceb192a9fc846dda776a79055e5d77c9",
+      "tag": "0.0.4",
+      "parsed_at": "2026-09-28T07:16:57.441590+00:00"
+    }
+  ]
+}
